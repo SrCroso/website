@@ -1,0 +1,18 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Diretórios de build ou dependências
+node_modules/
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
+
+# Ambiente
+.env
