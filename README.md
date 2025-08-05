@@ -9,7 +9,7 @@ O site foi construído com HTML, CSS e JavaScript puro, com foco em leveza e sim
 - `index.html`: Página principal
 - `style.css`: Estilo visual
 - `script.js`: Interatividade simples
-- `img/*.jpg`: Fotos utilizadas no website
+- `img/*.jpg`: Fotos utilizadas no site
 
 ## 🔗 Acesse
 
